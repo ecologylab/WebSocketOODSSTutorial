@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry kind="lib" path="/ecologylabFundamentalAndroid/libs/jWebSocketClientAPI-1.0.jar" sourcepath="C:/Users/shenfeng/workspace/OODSS/jWebSocketDev/branches/jWebSocket-1.0/shared/J2SE"/>
+	<classpathentry kind="lib" path="/ecologylabFundamentalAndroid/libs/jWebSocketCommon-1.0.jar" sourcepath="C:/Users/shenfeng/workspace/OODSS/jWebSocketDev/branches/jWebSocket-1.0/shared/J2SE"/>
+	<classpathentry kind="lib" path="/ecologylabFundamentalAndroid/libs/jWebSocketJavaSEClient-1.0.jar"/>
+	<classpathentry kind="lib" path="/ecologylabFundamentalAndroid/libs/xml-addon.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
